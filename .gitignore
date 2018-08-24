@@ -1,0 +1,5 @@
+# ignore binary
+*.o
+hub_test_mode
+*~
+
